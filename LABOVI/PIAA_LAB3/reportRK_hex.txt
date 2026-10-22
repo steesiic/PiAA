@@ -1,0 +1,240 @@
+fajl: hex_100.txt
+pattern: 1a3f5
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5
+broj pojavljivanja: 1000
+vreme: 18 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 1000
+vreme: 13 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 1000
+vreme: 14 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 1000
+vreme: 14 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5
+broj pojavljivanja: 1000
+vreme: 13 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 1000
+vreme: 13 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 1000
+vreme: 18 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 1000
+vreme: 14 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_100.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 1
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_1000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_10000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5
+broj pojavljivanja: 1000
+vreme: 13 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b
+broj pojavljivanja: 1000
+vreme: 14 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e
+broj pojavljivanja: 1000
+vreme: 18 ms
+----------------------------------
+fajl: hex_100000.txt
+pattern: 1a3f5c7e9b0d2f4a6c8e0b1d3f
+broj pojavljivanja: 1000
+vreme: 14 ms
+----------------------------------

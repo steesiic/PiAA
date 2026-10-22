@@ -1,0 +1,8 @@
+
+B stablo:
+Dodavati prirodne brojeve u stablo(B stablo) dok se ne dostigne broj N. Nakon toga obrisati 10% vrednosti.  Implementirati Y sa N elemenata, pomoćnu strukturu podataka po izboru, i neka je X = 3N/5.  uraditi sledeći zadatak:  
+
+Naći presek skupa prvih X elemenata strukture Y i B stabla  
+
+Uporediti performanse dodavanja, brisanja i traženja elemenata za različite maksimalne vrednosti po čvoru: 3, 5, 10, 33, 101, 333 i 1001 nad stablima čiji je broj ključeva N jednak 100, 1000, 10k, 100k i 1M. 
+

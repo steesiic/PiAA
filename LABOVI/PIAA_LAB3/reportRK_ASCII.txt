@@ -1,0 +1,240 @@
+fajl: ASCII_100.txt
+pattern: Lorem
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 100
+vreme: 1 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem
+broj pojavljivanja: 1000
+vreme: 8 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 1000
+vreme: 8 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 1000
+vreme: 9 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 1000
+vreme: 9 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem
+broj pojavljivanja: 10000
+vreme: 84 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 10000
+vreme: 84 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 10000
+vreme: 90 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 10000
+vreme: 99 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem
+broj pojavljivanja: 1000
+vreme: 8 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 1000
+vreme: 8 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 1000
+vreme: 9 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 1000
+vreme: 9 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem
+broj pojavljivanja: 10000
+vreme: 84 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 10000
+vreme: 96 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 10000
+vreme: 90 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 10000
+vreme: 90 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_100.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 10
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_1000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 100
+vreme: 0 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem
+broj pojavljivanja: 1000
+vreme: 8 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 1000
+vreme: 8 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 1000
+vreme: 10 ms
+----------------------------------
+fajl: ASCII_10000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 1000
+vreme: 12 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem
+broj pojavljivanja: 10000
+vreme: 83 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsu
+broj pojavljivanja: 10000
+vreme: 85 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsum dolor si
+broj pojavljivanja: 10000
+vreme: 90 ms
+----------------------------------
+fajl: ASCII_100000.txt
+pattern: Lorem ipsum dolor sit amet, consectetur adipiscing
+broj pojavljivanja: 10000
+vreme: 98 ms
+----------------------------------

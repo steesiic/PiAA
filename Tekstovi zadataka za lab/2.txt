@@ -1,0 +1,7 @@
+Generišite N tačaka u ravni, i odredite konveksni omotač po odgovarajućem algoritmu. 
+
+Nakon generisanja tačaka uradite sledeće: 
+
+Zadatak 4: Generišite još skup tačaka i nađite njegov konveksni omotač. Ispitajte da li se dva konveksna omotača seku ili su disjunktni. Koristite Graham’s Scan algoritam.
+ 
+Testirati ponašanje svojih rešenja za 10 <= N <= 10.000.000.   

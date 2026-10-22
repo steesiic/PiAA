@@ -1,0 +1,357 @@
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  -> leavi
+  -> Leave
+vreme: 17 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 4 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 6 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 5 karaktera
+pronadjene reci:
+  -> HARRY
+  -> horro
+  -> horri
+  -> haire
+  -> herhi
+  -> hurri
+  -> hurry
+  -> hairy
+  -> herho
+  -> herwh
+  -> Heari
+  -> herai
+  -> heirw
+  -> hairw
+  -> HairR
+  -> heroa
+  -> haira
+  -> Hurry
+  -> heari
+  -> hearw
+  -> Horro
+  -> heraw
+  -> herhe
+vreme: 111 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 26 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 8 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  -> leavi
+  -> Leave
+vreme: 13 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 4 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 5 karaktera
+pronadjene reci:
+  -> HARRY
+  -> horro
+  -> horri
+  -> haire
+  -> herhi
+  -> hurri
+  -> hurry
+  -> hairy
+  -> herho
+  -> herwh
+  -> Heari
+  -> herai
+  -> heirw
+  -> hairw
+  -> HairR
+  -> heroa
+  -> haira
+  -> Hurry
+  -> heari
+  -> hearw
+  -> Horro
+  -> heraw
+  -> herhe
+vreme: 113 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 22 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 6 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_100.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 6 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_1000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 1 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 5 karaktera
+pronadjene reci:
+  -> leavi
+  -> Leave
+vreme: 15 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 5 ms
+----------------------------------
+fajl: hp_10000.txt
+pattern: Life
+SoundEx kod: L100
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 2 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 5 karaktera
+pronadjene reci:
+  -> HARRY
+  -> horro
+  -> horri
+  -> haire
+  -> herhi
+  -> hurri
+  -> hurry
+  -> hairy
+  -> herho
+  -> herwh
+  -> Heari
+  -> herai
+  -> heirw
+  -> hairw
+  -> HairR
+  -> heroa
+  -> haira
+  -> Hurry
+  -> heari
+  -> hearw
+  -> Horro
+  -> heraw
+  -> herhe
+vreme: 105 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 10 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 20 ms
+----------------------------------
+fajl: hp_100000.txt
+pattern: Harry
+SoundEx kod: H600
+duzina provere: 20 karaktera
+pronadjene reci:
+  nema slicnih reci
+vreme: 6 ms
+----------------------------------
